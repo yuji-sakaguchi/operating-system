@@ -16,7 +16,7 @@ This GitHub repository contains the implementation of an operating system lab fo
 - Handles different data sizes gracefully.
 
 #### Read and Write System Calls:
-- Read/write operations retrieve data from the pipe for file descriptors > 2.
+- Read/write operations retrieve data from the pipe.
 - Blocking/unblocking mechanisms are managed via semaphores based on pipe state.
 - Close operations handle end-of-pipe conditions, delivering EOF to readers.
 - Ensures data consistency for multiple processes reading/writing to the same pipe.
