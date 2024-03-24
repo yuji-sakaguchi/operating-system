@@ -43,14 +43,6 @@ Provides functionalities for managing processes, memory, and system operations e
 - End-to-end system testing simulates real-world scenarios to validate the overall functionality of the operating system.
 - Includes scenarios involving multiple processes, concurrent operations, and varying data sizes to assess system stability and performance.
 
-#### Regression Testing:
-- Regular regression tests ensure that new updates or changes do not introduce regressions or break existing functionalities.
-- Maintains system reliability and consistency across different versions or updates.
-
-#### User Acceptance Testing (UAT):
-- Involves users or stakeholders testing the system to validate its usability, reliability, and conformance to requirements.
-- Feedback from UAT helps in identifying improvements, refining features, and enhancing user experience.
-
 #### Automated Testing:
 - Utilizes automated testing frameworks and scripts to streamline testing processes and improve test coverage.
 - Automates repetitive test cases, regression tests, and performance tests for efficient testing workflows.
