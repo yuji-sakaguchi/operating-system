@@ -55,17 +55,5 @@ Provides functionalities for managing processes, memory, and system operations e
 - Ensures each feature works as expected and handles edge cases appropriately.
 
 #### Integration Testing:
-- Tests the integration of different components to ensure seamless interaction and functionality.
 - Verifies the coordination between file descriptors, pipe operations, system calls, and process management.
 
-#### System Testing:
-- End-to-end system testing simulates real-world scenarios to validate the overall functionality of the operating system.
-- Includes scenarios involving multiple processes, concurrent operations, and varying data sizes to assess system stability and performance.
-
-#### Automated Testing:
-- Utilizes automated testing frameworks and scripts to streamline testing processes and improve test coverage.
-- Automates repetitive test cases, regression tests, and performance tests for efficient testing workflows.
-
-#### Documentation Testing:
-- Validates that the system documentation accurately reflects the implemented features, functionalities, and usage instructions.
-- Ensures users, developers, and administrators can effectively understand and utilize the operating system.
